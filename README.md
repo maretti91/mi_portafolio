@@ -10,3 +10,8 @@ Español e inglés.
 ## Contacto
 Correo: maretti91@gmail.com
 
+## Habilidades
+
+-Java
+-Git y GitHub
+-Base de datos
